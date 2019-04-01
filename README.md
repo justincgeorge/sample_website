@@ -1,1 +1,3 @@
-# This is a sample website created for practicing html
+# Sample website
+
+this was created just to revisit and practice html5
